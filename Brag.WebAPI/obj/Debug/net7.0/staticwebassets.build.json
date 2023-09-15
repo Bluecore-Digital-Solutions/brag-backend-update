@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "HKDmzonjenZsJ6YbByIh2lQo2zIvwdoNBh/9Pam1QZI=",
+  "Source": "Brag.WebAPI",
+  "BasePath": "_content/Brag.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Brag.WebAPI\\wwwroot",
+      "Source": "Brag.WebAPI",
+      "ContentRoot": "C:\\EXCELLENTSOFT_APPS\\BlueCore Project\\BragAPI\\Brag.WebAPI\\wwwroot\\",
+      "BasePath": "_content/Brag.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\EXCELLENTSOFT_APPS\\BlueCore Project\\BragAPI\\Brag.WebAPI\\wwwroot\\index.html",
+      "SourceId": "Brag.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\EXCELLENTSOFT_APPS\\BlueCore Project\\BragAPI\\Brag.WebAPI\\wwwroot\\",
+      "BasePath": "_content/Brag.WebAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

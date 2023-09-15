@@ -1,0 +1,15 @@
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.csproj.AssemblyReference.cache
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.AssemblyInfoInputs.cache
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.AssemblyInfo.cs
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.csproj.CoreCompileInputs.cache
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\bin\Debug\net7.0\Brag.SharedServices.deps.json
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\bin\Debug\net7.0\Brag.SharedServices.dll
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\bin\Debug\net7.0\Brag.SharedServices.pdb
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\bin\Debug\net7.0\Brag.Domain.dll
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\bin\Debug\net7.0\Brag.Domain.pdb
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.csproj.CopyComplete
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.dll
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\refint\Brag.SharedServices.dll
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\Brag.SharedServices.pdb
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.SharedServices\obj\Debug\net7.0\ref\Brag.SharedServices.dll

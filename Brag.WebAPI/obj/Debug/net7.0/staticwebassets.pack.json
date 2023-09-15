@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\EXCELLENTSOFT_APPS\\BlueCore Project\\BragAPI\\Brag.WebAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Brag.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Brag.WebAPI.props",
+      "PackagePath": "build\\Brag.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Brag.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\Brag.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Brag.WebAPI.props",
+      "PackagePath": "buildTransitive\\Brag.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

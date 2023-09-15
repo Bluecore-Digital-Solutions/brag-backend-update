@@ -1,0 +1,12 @@
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\bin\Debug\net7.0\Brag.Services.deps.json
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\bin\Debug\net7.0\Brag.Services.dll
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\bin\Debug\net7.0\Brag.Services.pdb
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\Brag.Services.csproj.AssemblyReference.cache
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\Brag.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\Brag.Services.AssemblyInfoInputs.cache
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\Brag.Services.AssemblyInfo.cs
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\Brag.Services.csproj.CoreCompileInputs.cache
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\Brag.Services.dll
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\refint\Brag.Services.dll
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\Brag.Services.pdb
+C:\EXCELLENTSOFT_APPS\BlueCore Project\BragAPI\Brag.Services\obj\Debug\net7.0\ref\Brag.Services.dll
